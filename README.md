@@ -1,4 +1,4 @@
-# EXPERIMENT NAME:** TCP Echo server Programming using C/JAVA
+# EXPERIMENT NAME: TCP Echo server Programming using C/JAVA
 
 **PROGRAM:  SERVER SIDE**
 ```
