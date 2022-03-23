@@ -33,7 +33,7 @@ din.close();   s.close();   ss.close();
 }
 ```
 **CLIENT SIDE**
-```
+```java
 import java.net.\*;
 
 import java.io.\*;
@@ -73,7 +73,7 @@ dout.close();   s.close();
 **SOURCE CODE:**
 
 **SERVER:**
-```
+```c
 #include<stdio.h>
 
 #include<netinet/in.h>
@@ -117,7 +117,7 @@ printf("\n"); close(sockfd); return 0;
 }
 ```
 **CLIENT:**
-```
+```c
 #include<stdio.h>
 
 #include<sys/types.h>
