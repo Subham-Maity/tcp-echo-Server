@@ -1,7 +1,7 @@
 # EXPERIMENT NAME: TCP Echo server Programming using C/JAVA
 
 **PROGRAM:  SERVER SIDE**
-```
+```java
 import java.net.\*;   import java.io.\*;
 
 class MyServer1{
